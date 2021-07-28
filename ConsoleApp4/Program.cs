@@ -13,6 +13,7 @@ namespace ConsoleApp4
             int a = 50;
             int b = 10;
             Console.ReadLine();
+            int d = 20;
         }
     }
 }
