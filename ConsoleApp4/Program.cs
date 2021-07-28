@@ -11,6 +11,7 @@ namespace ConsoleApp4
             Console.WriteLine("Hello World!1");
             Console.WriteLine("World");
             int a = 50;
+            int b = 10;
             Console.ReadLine();
         }
     }
